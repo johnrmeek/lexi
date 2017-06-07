@@ -1,1 +1,3 @@
 Basic information about getting this project setup and running. 
+
+SSH Connection setup is painfull....
